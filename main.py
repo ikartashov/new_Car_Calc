@@ -9,6 +9,6 @@ if __name__ == '__main__':
         calculator.ElectricCar("Tesla Model 3", 200000,
                                5500, 150))
     calc.add_car(
-        calculator.Car("Citroen", 650000,
+        calculator.Car("Citroen C3", 650000,
                        3, 3000, 7000))
     calc.print_cars()
